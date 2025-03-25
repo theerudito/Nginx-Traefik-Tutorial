@@ -1,0 +1,10 @@
+./Sitios-Traefik/sitio-react/.gitignore
+./Sitios-Traefik/sitio-vue/.gitignore
+./Sitios-Traefik/sitio-svelte/.gitignore
+
+./Sitios-Nginx/sitio-react/.gitignore
+./Sitios-Nginx/sitio-vue/.gitignore
+./Sitios-Nginx/sitio-svelte/.gitignore
+
+./react-sin-contenedor/.gitignore
+./react-con-contenedor.gitignore
